@@ -1,7 +1,11 @@
 :root {
-  --primary: #B2DEEB;
-  --background: #F5F8FA;
+  --primary: #b2deeb;
+  --background: #f5f8fa;
   --button-color: #ffffff;
+  --button-hover: #5be791;
+  --border-color: #afafaf;
+  --text-color: #000000;
+  --text-alt: #5b5b5b;
 }
 
 * {
@@ -17,6 +21,11 @@ html {
 
 body {
   background-color: var(--background);
+}
+
+h1 {
+  font-size: 2.5rem; // 40px
+  font-family: 'Poppins', Arial, sans-serif;
 }
 
 button {

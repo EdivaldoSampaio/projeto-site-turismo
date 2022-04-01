@@ -33,15 +33,49 @@ export function App() {
               alt="Paisagem de São Paulo"
             />
             <div className="labels">
-              <div>
-                <p><span>Cidade:</span>São Paulo</p>
-                <p><span>Cidade:</span>São Paulo</p>
-              </div>
-              
-              <div>
-                <p><span>Cidade:</span>São Paulo</p>
-                <p><span>Cidade:</span>São Paulo</p>
-              </div>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+            </div>
+          </div>
+
+          <div className="card">
+            <img 
+              src="https://images.unsplash.com/photo-1629984557780-4dde2292e245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              alt="Paisagem de São Paulo"
+            />
+            <div className="labels">
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+            </div>
+          </div>
+
+          <div className="card">
+            <img 
+              src="https://images.unsplash.com/photo-1629984557780-4dde2292e245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              alt="Paisagem de São Paulo"
+            />
+            <div className="labels">
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+            </div>
+          </div>
+
+          <div className="card">
+            <img 
+              src="https://images.unsplash.com/photo-1629984557780-4dde2292e245?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+              alt="Paisagem de São Paulo"
+            />
+            <div className="labels">
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
+              <p><span>Cidade:</span>São Paulo</p>
             </div>
           </div>
         </div>

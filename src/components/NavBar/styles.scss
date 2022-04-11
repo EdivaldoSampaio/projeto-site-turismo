@@ -1,0 +1,19 @@
+.navbar {
+  background-color: var(--primary);
+  width: 20rem; // 20 * 16px = 320px
+  height: 100vh;
+  position: sticky;
+  top: 0;
+
+  padding: 4rem 1.5rem; // 64px; 24px;
+
+  h1 {
+    font-weight: 700;
+  }
+}
+
+.button-container {
+  display: flex;
+  flex-direction: column;
+
+}

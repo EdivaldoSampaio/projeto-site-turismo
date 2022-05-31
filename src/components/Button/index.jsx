@@ -18,7 +18,7 @@ const { listCitiesByCountry, selectedCountry } = useCities();
 
     <button
     className={`nav-button &{selectedCountry === country && 'selected'}`} 
-    onClick={handleChangeCities}>< Icon/>{countries[selectedCountry]}</button>
+    onClick={handleChangeCities}>< Icon/>{countries[country]}</button>
    
     )
 }

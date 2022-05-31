@@ -7,7 +7,7 @@ import { countries } from '../../utils/countries';
 export function Button ({icon: Icon, country }) {
    
 
-const { listCitiesByCountry, selectedCountry } = useCities();
+const { listCitiesByCountry } = useCities();
 
    async function handleChangeCities() {
     listCitiesByCountry (country)
